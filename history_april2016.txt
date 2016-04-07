@@ -1,0 +1,107 @@
+    1  python
+    2  make
+    3  mkdir
+    4  mkdir mystuff
+    5  cd mystff
+    6  cd mystuff
+    7  ls
+    8  cd
+    9  ls
+   10  ls
+   11  cd mystff
+   12  ls
+   13  cd mystuff
+   14  ls
+   15  sqlite
+   16  $squlite
+   17  $sqlite
+   18  $sqlite3
+   19  $sqlite3
+   20  cd
+   21  $sqlite3
+   22  $ sqlite3
+   23  python
+   24  $ sqlite3
+   25  sqlite3
+   26  python
+   27  ls
+   28  cd mystff
+   29  cd mystff
+   30  cd mystuff
+   31  ls
+   32  python
+   33  ls
+   34  python
+   35  python ex13.py a b c
+   36  python ex8.py
+   37  python ex8.py
+   38  python ex6.py
+   39  python ex6.py
+   40  cd
+   41  ls
+   42  cd mystuff
+   43  ls
+   44  python ex14.py
+   45  python ex14.py michael
+   46  python ex15.py ex15_sample.txt
+   47  python ex15.py ex15_sample.txt
+   48  python ex15.py ex15_sample.txt
+   49  python ex16.py test.txt
+   50  python ex16.py test.txt
+   51  python ex16.py test.txt
+   52  python ex17.py test.txt newfile.txt
+   53  python ex17.py test.txt newfile.txt
+   54  python ex17.py test.txt newfile.txt
+   55  python ex17.py test.txt newfile.txt
+   56  python ex18.py
+   57  python ex18.py
+   58  python ex25.py
+   59  import ex25
+   60  python import
+   61  python import ex25
+   62  python
+   63  python
+   64  python
+   65  python
+   66  python ex28.py
+   67  python
+   68  python ex29.py
+   69  python ex29.py
+   70  pythong ex30.py
+   71  python ex30.py
+   72  python ex30.py
+   73  python ex30.py
+   74  python ex30.py
+   75  python ex30.py
+   76  python ex30.py
+   77  python ex30.py
+   78  python ex31.py
+   79  python ex31.py
+   80  python ex31.py
+   81  python ex32.py
+   82  python ex32.py
+   83  python ex32.py
+   84  python ex38.py
+   85  python
+   86  ls
+   87  cd mystuff
+   88  ls
+   89  python ex38.py
+   90  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+   91  brew install git
+   92  git clone https://github.com/mhotard/Santander-Kaggle.git
+   93  ls
+   94  cd Santander-Kaggle
+   95  ls
+   96  touch analysis.py
+   97  ls
+   98  git add
+   99  git add -a
+  100  git add -A
+  101  git commit -m "first push"
+  102  git push origin master
+  103  mhotard
+  104  git push origin master
+  105  history
+  106  history 
+  107  history > history_april2016.txt
